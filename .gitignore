@@ -1,0 +1,9 @@
+# bype-compiled
+__pycache__/
+
+.vscode/
+data/
+env/
+cifar10*/
+requirements.txt
+

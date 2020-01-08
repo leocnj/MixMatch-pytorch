@@ -6,4 +6,5 @@ data/
 env/
 cifar10*/
 requirements.txt
-
+RDC_data/
+rdc@*/
